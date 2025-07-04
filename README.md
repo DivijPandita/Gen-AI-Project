@@ -33,5 +33,38 @@ This project demonstrates the use of Generative AI to create short, coherent sto
 ---
 
 ## 🧪 Example
+Input:-
+The wind howled through the trees as I entered the forest.
 
-**Input Prompt:**
+Output:-
+The wind howled through the trees as I entered the forest.
+
+I looked over at the trees. The one who was coming by said there were several people looking for him.
+
+When I looked at the distance, I thought that one would be a little too late.
+
+The wind picked up again. It had not stopped.
+
+While the wind blew, I started to think that I may be able to take out some other things while I go.
+
+But I wasn't able to take out anything.
+
+It would be too heavy to run for a while.
+
+This place was not just on the edge, this place was on the edge of the forest.
+
+When I got there, the wind blew out and the wind was blowing up through the trees.
+
+I looked around for something, but there wasn't anything.
+
+Before I began to think, I saw a man with a silver robe.
+
+A man who looked like a man with a silver robe.
+
+He was wearing a green helmet, and a red tunic over his head.
+
+He looked like he was about to run into a group of people.
+
+I looked around. There were even a few guards in the center of the forest outside it.
+
+"That's Captain
